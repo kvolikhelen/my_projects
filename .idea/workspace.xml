@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="403c99e2-3817-44ce-95a6-fcfe557f2adc" name="Changes" comment="&#10;idea added">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="403c99e2-3817-44ce-95a6-fcfe557f2adc" name="Changes" comment="created and added edited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660837064976</updated>
-      <workItem from="1660837066166" duration="718000" />
+      <workItem from="1660837066166" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="My project created&#10;git ignore created">
       <created>1660837266851</created>
@@ -74,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660837761732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created and added">
+      <created>1660838032081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660838032081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +98,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My project created&#10;git ignore created" />
     <MESSAGE value="&#10;idea added" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;idea added" />
+    <MESSAGE value="created and added" />
+    <MESSAGE value="created and added edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="created and added edited" />
   </component>
 </project>
